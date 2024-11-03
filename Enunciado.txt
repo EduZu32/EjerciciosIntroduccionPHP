@@ -1,0 +1,13 @@
+Realizar en PHP los siguientes ejercicios:
+
+ Muestra los números múltiplos de 5 de un bucle de 0 a 100 utilizando while.
+ Muestra los números del 320 al 160, contando de 20 en 20 utilizando un bucle for.
+ Muestra la tabla de multiplicar de un número generado de manera aleatoria entre 1 y 10. El resultado en formato <table>
+ Realiza un programa que nos diga cuántos dígitos tiene un número aleatorio entre (0 y 9999). Mostrar el número y la cantidad de dígitos.
+-Escribe un programa que muestre en dos columnas:  Numero -  cuadrado del numero
+De 10 números aleatorios entre 5 y 20.
+ Un programa que genere 2 tiradas de 3 dados(simulando 2 jugadores). 
+Muestre las dos tiradas y me diga cual tiene mayor puntuación(sumando las tiradas)
+Necesitas las imágenes: dados.zipDownload dados.zip
+
+Entregar los ejercicios en un fichero .rar con el formato: tarea21_nombre_apellidos.rar
